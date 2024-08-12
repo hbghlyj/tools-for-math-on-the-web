@@ -20,7 +20,8 @@ Some tools around math on the web
   * [geometric](https://github.com/HarryStevens/geometric), "A JavaScript library for doing geometry." 
   * [TheoremJS](https://github.com/arguiot/TheoremJS), "A Math library for computation in JavaScript"
 * editors (wysiwyg etc)
-  * [mathlive](https://mathlive.io) 
+  * [mathlive](https://mathlive.io)
+  * [MathEditor](https://math-editor.com/semanticEditor.html) Syntax Tree, context assistant
   * [DraftJS MathJax Plugin](https://github.com/efloti/draft-js-mathjax-plugin)
   * [mathjax-editor](https://github.com/ianlucas/mathjax-editor)
   * [fmath](http://www.fmath.info/)
